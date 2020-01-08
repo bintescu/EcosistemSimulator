@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1572951561 source:c:\users\valhalla\desktop\proiectpoo\main.cpp
+	<iostream>
+	<time.h>
+	<windows.h>
+
